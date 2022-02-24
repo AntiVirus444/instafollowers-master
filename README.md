@@ -1,4 +1,4 @@
-# instafollowers
+# instafollowers-master
 Best Tool For Increase Instagram Follower.
 
 ## Requirements
@@ -15,9 +15,9 @@ Best Tool For Increase Instagram Follower.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/AntiVirus444/instafollowers`
+`$ git clone https://github.com/AntiVirus444/instafollowers-master.git`
 
-`$ cd instafollowers`
+`$ cd instafollowers-master`
 
 `$ chmod +x instafollowers.sh`
 
