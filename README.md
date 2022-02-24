@@ -30,9 +30,9 @@ Best Tool For Increase Instagram Follower.
 ---
 
 ##  Follow Me On :
-</p>
-<p align="center">
-  <a href="https://m.facebook.com/100133219277730/">
-  </a>
-  <a href="https://www.instagram.com/darkknight_yt.1/">
-</p>
+
+
+* https://m.facebook.com/100133219277730/
+  
+* https://www.instagram.com/darkknight_yt.1/
+
